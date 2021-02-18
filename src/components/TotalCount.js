@@ -11,6 +11,7 @@ export default function TotalCount(totalval,red,blue,green) {
             <Button variant="primary">total</Button>
             </Container>
             
+            
         </div>
     )
 }
